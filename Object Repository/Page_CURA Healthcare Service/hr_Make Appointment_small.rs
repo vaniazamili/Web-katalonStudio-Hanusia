@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hr_Make Appointment_small</name>
+   <tag></tag>
+   <elementGuidId>c1f77d13-cce5-4352-a10b-9c894a225ce8</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_CURA Healthcare Service/hr_Make Appointment_small.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>hr.small</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_CURA Healthcare Service/hr_Make Appointment_small.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='appointment']/div/div/div/hr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>hr</value>
+      <webElementGuid>270528ba-00e7-4ddd-bebd-36775b5ecf5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>7c004101-42c1-417b-889b-d658dccc3838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;appointment&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 text-center&quot;]/hr[@class=&quot;small&quot;]</value>
+      <webElementGuid>3959e373-dc9c-4f55-b300-edee821c49f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='appointment']/div/div/div/hr</value>
+      <webElementGuid>1ff542c2-b0fb-466c-8b96-81cd332f15d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//hr</value>
+      <webElementGuid>a20a6850-42e0-481a-bd0a-6bc83130cb3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
